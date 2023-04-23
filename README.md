@@ -36,4 +36,5 @@ AWS_ECR_LOGIN_URI = demo>>  084170917823.dkr.ecr.eu-north-1.amazonaws.com/studen
 
 ECR_REPOSITORY_NAME = simple-app
 
+TEST
 
