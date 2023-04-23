@@ -30,8 +30,10 @@ AWS_ACCESS_KEY_ID=
 
 AWS_SECRET_ACCESS_KEY=
 
-AWS_REGION = us-east-1
+AWS_REGION = eu-north-1
 
-AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+AWS_ECR_LOGIN_URI = demo>>  084170917823.dkr.ecr.eu-north-1.amazonaws.com/studentperformance
 
 ECR_REPOSITORY_NAME = simple-app
+
+
